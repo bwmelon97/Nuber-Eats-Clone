@@ -1,3 +1,6 @@
 [submodule "Nuber-Eats-Clone-Backend"]
 	path = Backend
 	url = https://github.com/bwmelon97/Nuber-Eats-Clone-Backend
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/bwmelon97/Nuber-Eats-Clone-Frontend
